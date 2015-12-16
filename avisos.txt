@@ -1,0 +1,54 @@
+Comando incorrecto: <InsertaPersona>.
+Comando incorrecto: <InsertaPersona>.
+Comando incorrecto: <InsertaPersona>.
+Comando incorrecto: <InsertaPersona>.
+IP -- Fecha incorrecta.
+Comando incorrecto: <InsertaPersona>.
+IP -- Numero de horas incorrecto.
+Comando incorrecto: <InsertaPersona>.
+IP -- Fecha de ingreso incorrecta.
+IP -- Fecha incorrecta.
+IP -- Fecha incorrecta.
+IP -- Fecha de ingreso incorrecta.
+IP -- Fecha de ingreso incorrecta.
+IP -- Nota media incorrecta.
+Comando incorrecto: <Asignacoordinador>.
+Comando incorrecto: <Asignacoordinador>.
+Comando incorrecto: <Asignacoordinador>.
+Comando incorrecto: <AsignaCoordinador>.
+ACOORD -- Profesor inexistente.
+ACOORD -- Profesor inexistente.
+ACOORD -- Asignatura inexistente
+ACOORD -- Asignatura inexistente
+Comando incorrecto: <AsignaCargaDocente>.
+Comando incorrecto: <AsignaCargaDocente>.
+ACD -- Profesor inexistente.
+ACD -- Tipo de grupo incorrecto
+Comando incorrecto: <AsignaCargaDocente>.
+ACD -- Grupo ya asignado
+ACD -- Asignatura inexistente.
+ACD -- Profesor inexistente.
+ACD -- Profesor inexistente.
+Comando incorrecto: <ObtenerCalendarioClases>.
+Comando incorrecto: <ObtenerCalendarioClases>.
+OCALEN -- Alumno inexistente.
+Comando incorrecto: <ObtenerCalendarioClases>.
+Comando incorrecto: <ObtenerCalendarioClases>.
+Comando incorrecto: <ObtenerCalendarioClases>.
+OCALEN -- Alumno inexistente.
+MAT -- No cumple requisitos.
+AGRUPO -- Alumno no matriculado.
+ACOORD -- Profesor ya es coordinador de 2 materias.
+ACD -- Grupo ya asignado
+MAT -- No cumple requisitos.
+AGRUPO -- Alumno no matriculado.
+Comando incorrecto: <Asignacoordinador>.
+Comando incorrecto: <Asignacoordinador>.
+Comando incorrecto: <Asignacoordinador>.
+ACOORD -- Profesor ya es coordinador de 2 materias.
+ACOORD -- Profesor ya es coordinador de 2 materias.
+Comando incorrecto: <AsignaCoordinador>.
+ACOORD -- Profesor inexistente.
+ACOORD -- Profesor inexistente.
+ACOORD -- Asignatura inexistente
+ACOORD -- Profesor ya es coordinador de 2 materias.

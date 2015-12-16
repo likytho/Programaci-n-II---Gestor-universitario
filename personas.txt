@@ -1,0 +1,89 @@
+1
+profesor
+Carl Edward
+Sagan
+20/12/1996
+titular
+Radio
+19
+
+*
+2
+profesor
+Antía
+de la Costa Gonzalez
+10/10/1970
+interino
+Ingeniería Telemática
+10
+45 T 4; 87 P 2; 87 P 3; 87 P 1; 10 P 4
+*
+3
+profesor
+Pedro
+Casas Dominguez
+17/11/1962
+interino
+Matemática Aplicada
+10
+
+*
+4
+alumno
+Johann Carl
+Friedrich Gauss
+02/02/1977
+06/07/1995
+
+5.65
+
+*
+19
+alumno
+Juan
+Alonso Perez
+29/2/1992
+12/12/2012
+
+
+10 T 2; 23 P 1
+*
+23
+alumno
+Miguel
+Alonso Domínguez
+08/01/1987
+09/02/2010
+1
+6.2
+10 T 2; 23
+*
+34
+profesor
+Juan Manuel
+Perez Rodríguez
+07/09/1966
+titular
+Ingeniería Telemática
+14
+23 T 1
+*
+87
+alumno
+María Luisa
+Castro Gago
+11/11/1988
+12/12/2012
+10, 45
+7.3
+
+*
+100
+profesor
+Luis Miguel
+Miguez Miguez
+17/08/1980
+titular
+Teoría de la Señal y Comunicaciones
+12
+45 T 1; 45 T 2; 45 T 3
